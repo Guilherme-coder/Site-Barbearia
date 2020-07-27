@@ -1,0 +1,78 @@
+@charset "UTF-8";
+header{
+	background-color: #BBBBBB;
+	padding: 20px 0;
+}
+
+.caixa{
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav{
+	position: absolute;
+	top: 110px;
+	right: 0px;
+}
+
+nav li{
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+.caixa a{
+	position: inline;
+	font-size: 22px;
+	color: #000000;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+main{
+	width: 940px;
+	margin: 0 auto;
+}
+
+form{
+	margin: 40px 0 40px 0;
+}
+
+form label, form legend{
+	margin: 0 0 10px;
+	font-size: 20px;
+	display: block;
+}
+
+.input-padrao{
+	display: block;
+	margin-bottom: 20px;
+	padding: 7px 18px;
+	width: 50%;
+}
+
+.obrigatorio{
+	text-decoration: none;
+	color: red;
+	font-size: 20px;
+}
+
+#select{
+	margin-top: 20px;
+}
+
+.checkbox{
+	margin: 20px 0;
+}
+
+footer{
+	background-color: #888888;
+	text-align: center;
+}
+
+.copyright{
+	color: #FFFFFF;
+	font-size: 20px;
+	padding-bottom: 20px;
+}

@@ -1,7 +1,7 @@
 @charset "UTF-8";
 header{
 	background-color: #BBBBBB;
-	padding: 20px;
+	padding: 10px;
 	margin-bottom: 3px; 
 }
 
@@ -79,4 +79,15 @@ em strong{
 
 .imgbenef{
 	width: 40%;
+}
+
+footer{
+	background-color: #888888;
+	text-align: center;
+}
+
+.copyright{
+	color: #FFFFFF;
+	font-size: 20px;
+	padding-bottom: 20px
 }
