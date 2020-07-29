@@ -1,4 +1,9 @@
 @charset "UTF-8";
+body{
+	font-family: 'Raleway', sans-serif;
+	background-color: #FDFDFD
+}
+
 header{
 	background-color: #BBBBBB;
 	padding: 20px 0;
@@ -23,11 +28,12 @@ nav li{
 
 .caixa a{
 	position: inline;
-	font-size: 22px;
+	font-size: 27px;
 	color: #000000;
 	text-transform: uppercase;
 	font-weight: bold;
 	text-decoration: none;
+	font-family: 'Righteous', cursive;
 }
 
 main{
@@ -101,7 +107,7 @@ form label, form legend{
 }
 
 footer{
-	background-color: #888888;
+	background-color: #808080;
 	text-align: center;
 }
 
